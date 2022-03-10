@@ -1,0 +1,16 @@
+{
+	url: 
+	palavra: [
+		palavra 1
+		palavra 2
+    ]
+    urlDestino: [
+        {
+            url: 
+            urlTexto: [
+                texto 1
+                texto 2
+            ]
+        }
+    ]
+}
